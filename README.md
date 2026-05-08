@@ -1,7 +1,6 @@
 from weasyprint import HTML
 
-# Conteúdo do README em Markdown para referência e para o arquivo final
-readme_content = """# 🚀 [Games]
+# 🚀 [Games]
 
 > Projeto para treinar persistência de dados (API), usando a linguagem Java com base na primeira atividade da Fase 3 e terceiro semestre do curso de desenvolvimento de sistemas da FIAP EAD.
 
